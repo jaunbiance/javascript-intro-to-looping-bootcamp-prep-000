@@ -15,5 +15,11 @@ function whileLoop(num){
 }
 
 function doWhileLoop(integer){
-  
+  function incrementVariable() {
+  i = i + 1;
+  return i;
+  do{
+    console.log()
+  }
+}
 }
